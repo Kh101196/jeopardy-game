@@ -5,5 +5,5 @@
 * This project help users to find something such as: 
 // searching as well as calculating the mean value of a set of questions containing one ore more one special keywords
 // find the frequency that a word or a list of words in existing according to the air date
-* Commonly, data need to be cleaned before being employed. Some tasks in which python algorithms are used and some task in which dataframe functions are utilized
+* Commonly, data need to be cleaned before being employed. Some tasks in which python algorithms are used and some task in which dataframe's built-in functions are utilized
 * user can do explore more things like investigate what is the category appear the most or the difference of among year's total values
